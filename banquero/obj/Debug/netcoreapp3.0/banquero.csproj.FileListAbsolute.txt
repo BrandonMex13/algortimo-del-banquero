@@ -1,0 +1,11 @@
+C:\Users\brand\source\repos\banquero\banquero\bin\Debug\netcoreapp3.0\banquero.exe
+C:\Users\brand\source\repos\banquero\banquero\bin\Debug\netcoreapp3.0\banquero.deps.json
+C:\Users\brand\source\repos\banquero\banquero\bin\Debug\netcoreapp3.0\banquero.runtimeconfig.json
+C:\Users\brand\source\repos\banquero\banquero\bin\Debug\netcoreapp3.0\banquero.runtimeconfig.dev.json
+C:\Users\brand\source\repos\banquero\banquero\bin\Debug\netcoreapp3.0\banquero.dll
+C:\Users\brand\source\repos\banquero\banquero\bin\Debug\netcoreapp3.0\banquero.pdb
+C:\Users\brand\source\repos\banquero\banquero\obj\Debug\netcoreapp3.0\banquero.csprojAssemblyReference.cache
+C:\Users\brand\source\repos\banquero\banquero\obj\Debug\netcoreapp3.0\banquero.AssemblyInfoInputs.cache
+C:\Users\brand\source\repos\banquero\banquero\obj\Debug\netcoreapp3.0\banquero.AssemblyInfo.cs
+C:\Users\brand\source\repos\banquero\banquero\obj\Debug\netcoreapp3.0\banquero.dll
+C:\Users\brand\source\repos\banquero\banquero\obj\Debug\netcoreapp3.0\banquero.pdb
